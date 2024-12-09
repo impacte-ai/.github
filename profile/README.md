@@ -1,5 +1,5 @@
-### Welcome to Impacte AI 👋
+### Bem-vindo à Impacte AI 👋
 
-Impacte AI develops advanced artificial intelligence solutions to enhance productivity, reduce costs, and drive business growth. Our innovative technologies empower businesses to unlock their full potential and achieve sustainable success.
+Impacte AI desenvolve soluções avançadas de inteligência artificial para aumentar a produtividade, reduzir custos e impulsionar o crescimento empresarial. Nossas tecnologias inovadoras capacitam as empresas a desbloquear todo o seu potencial e alcançar o sucesso sustentável.
 
-We're on a mission to transform businesses with cutting-edge AI technology.
+Estamos em uma missão de transformar negócios com tecnologia de IA de ponta.
